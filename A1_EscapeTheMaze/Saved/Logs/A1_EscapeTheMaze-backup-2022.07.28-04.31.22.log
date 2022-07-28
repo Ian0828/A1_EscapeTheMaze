@@ -1,0 +1,1597 @@
+﻿Log file open, 07/27/22 20:06:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: A1_EscapeTheMaze
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.259221
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1660 Ti
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UnrealEngine/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Engine.ini]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Engine.ini]
+[2022.07.28-03.06.42:383][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Engine.ini]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Engine.ini]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.07.28-03.06.42:383][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Engine.ini]
+[2022.07.28-03.06.42:383][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Engine.ini]
+[2022.07.28-03.06.42:458][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.07.28-03.06.42:458][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:459][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.07.28-03.06.42:459][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.07.28-03.06.42:459][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:459][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.28-03.06.42:459][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.28-03.06.42:459][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.28-03.06.42:460][  0]LogInit: Selected Device Profile: [Windows]
+[2022.07.28-03.06.42:460][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.07.28-03.06.42:485][  0]LogHAL: Display: Platform has ~ 16 GB [17095413760 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.28-03.06.42:485][  0]LogInit: Going up to parent DeviceProfile []
+[2022.07.28-03.06.42:497][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.07.28-03.06.42:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.28-03.06.42:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.07.28-03.06.42:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.28-03.06.42:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.28-03.06.42:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.28-03.06.42:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.07.28-03.06.42:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.28-03.06.42:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.28-03.06.42:498][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.07.28-03.06.42:498][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:498][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.07.28-03.06.42:498][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.07.28-03.06.42:498][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Scalability.ini]
+[2022.07.28-03.06.42:498][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.28-03.06.42:498][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.28-03.06.42:498][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.28-03.06.42:498][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.28-03.06.42:520][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.07.28-03.06.42:520][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.07.28-03.06.42:520][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.07.28-03.06.42:520][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Engine.ini]
+[2022.07.28-03.06.42:520][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Config/Windows/Editor.ini]
+[2022.07.28-03.06.42:545][  0]LogInit: Computer: DESKTOP-6QR7AHU
+[2022.07.28-03.06.42:545][  0]LogInit: User: Ian
+[2022.07.28-03.06.42:545][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.07.28-03.06.42:545][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.28-03.06.42:545][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.07.28-03.06.42:545][  0]LogMemory: Platform Memory Stats for Windows
+[2022.07.28-03.06.42:545][  0]LogMemory: Process Physical Memory: 142.79 MB used, 142.79 MB peak
+[2022.07.28-03.06.42:545][  0]LogMemory: Process Virtual Memory: 112.00 MB used, 112.00 MB peak
+[2022.07.28-03.06.42:545][  0]LogMemory: Physical Memory: 5361.95 MB used,  10941.51 MB free, 16303.46 MB total
+[2022.07.28-03.06.42:546][  0]LogMemory: Virtual Memory: 134194872.00 MB used,  22858.04 MB free, 134217728.00 MB total
+[2022.07.28-03.06.42:564][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.28-03.06.43:516][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.07.28-03.06.43:551][  0]LogInit: Using OS detected language (en-US).
+[2022.07.28-03.06.43:551][  0]LogInit: Using OS detected locale (en-CA).
+[2022.07.28-03.06.43:727][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.07.28-03.06.44:418][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.28-03.06.44:602][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.28-03.06.45:237][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.28-03.06.45:237][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.28-03.06.48:481][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.07.28-03.06.48:493][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.07.28-03.06.48:493][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.07.28-03.06.48:493][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.07.28-03.06.48:493][  0]LogD3D11RHI: D3D11 adapters:
+[2022.07.28-03.06.48:566][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2022.07.28-03.06.48:566][  0]LogD3D11RHI:       5991/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.07.28-03.06.48:568][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.07.28-03.06.48:568][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.07.28-03.06.48:568][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.07.28-03.06.48:568][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 Ti
+[2022.07.28-03.06.48:568][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.07.28-03.06.48:568][  0]LogD3D11RHI:     DeviceId    : 2182
+[2022.07.28-03.06.48:568][  0]LogD3D11RHI:     SubSysId    : 869f1043
+[2022.07.28-03.06.48:568][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.07.28-03.06.48:568][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2022.07.28-03.06.48:568][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.07.28-03.06.48:568][  0]LogD3D11RHI:     SharedSystemMemory : 8547706880 bytes
+[2022.07.28-03.06.48:568][  0]LogD3D11RHI:     AdapterLuid : 0 61606
+[2022.07.28-03.06.48:573][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.07.28-03.06.48:573][  0]LogD3D11RHI:     GPU DeviceId: 0x2182 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.28-03.06.48:573][  0]LogWindows: EnumDisplayDevices:
+[2022.07.28-03.06.48:574][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+[2022.07.28-03.06.48:574][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.07.28-03.06.48:574][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.07.28-03.06.48:574][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.07.28-03.06.48:574][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.07.28-03.06.48:574][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2022.07.28-03.06.48:575][  0]LogD3D11RHI:   Driver Version: 512.77 (internal:30.0.15.1277, unified:512.77)
+[2022.07.28-03.06.48:575][  0]LogD3D11RHI:      Driver Date: 5-4-2022
+[2022.07.28-03.06.48:575][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2022.07.28-03.06.48:575][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.07.28-03.06.48:575][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 Ti
+[2022.07.28-03.06.48:575][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.07.28-03.06.48:575][  0]LogD3D11RHI:     DeviceId    : 2182
+[2022.07.28-03.06.48:575][  0]LogD3D11RHI:     SubSysId    : 869f1043
+[2022.07.28-03.06.48:575][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.07.28-03.06.48:575][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2022.07.28-03.06.48:575][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.07.28-03.06.48:575][  0]LogD3D11RHI:     SharedSystemMemory : 8547706880 bytes
+[2022.07.28-03.06.48:575][  0]LogD3D11RHI:     AdapterLuid : 0 61606
+[2022.07.28-03.06.48:630][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.07.28-03.06.48:631][  0]LogD3D11RHI: Async texture creation enabled
+[2022.07.28-03.06.48:631][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.07.28-03.06.48:632][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2022.07.28-03.06.48:974][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.07.28-03.06.49:208][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.07.28-03.06.50:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.07.28-03.06.50:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.28-03.06.50:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.28-03.06.50:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.28-03.06.50:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.28-03.06.50:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.28-03.06.50:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.28-03.06.50:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.28-03.06.50:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.28-03.06.50:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.28-03.06.50:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.28-03.06.50:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.07.28-03.06.50:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.07.28-03.06.50:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.07.28-03.06.50:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.07.28-03.06.50:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.07.28-03.06.50:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.07.28-03.06.50:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.07.28-03.06.50:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.07.28-03.06.50:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.07.28-03.06.50:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.07.28-03.06.50:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.07.28-03.06.50:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.07.28-03.06.50:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.07.28-03.06.51:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.07.28-03.06.51:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.07.28-03.06.51:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.07.28-03.06.51:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.07.28-03.06.51:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.07.28-03.06.51:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.28-03.06.51:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.28-03.06.51:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.28-03.06.51:263][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.07.28-03.06.51:525][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.28-03.06.52:204][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.07.28-03.06.53:196][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.28-03.06.53:264][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Intermediate/Shaders/WorkingDirectory/17480/).
+[2022.07.28-03.06.53:264][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ian/AppData/Local/Temp/UnrealShaderWorkingDir/1408215A4AE09FEA43D34EB1BDF5FB1F/'.
+[2022.07.28-03.06.53:274][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.07.28-03.06.53:274][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.07.28-03.06.53:274][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.07.28-03.06.57:586][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.07.28-03.06.57:761][  0]LogDerivedDataCache: Loaded boot cache 0.17s 94MB C:/Users/Ian/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.07.28-03.06.57:761][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ian/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.07.28-03.06.57:761][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.28-03.06.57:761][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.07.28-03.06.57:762][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.28-03.06.57:762][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.07.28-03.06.57:886][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.07.28-03.06.57:886][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.28-03.06.57:886][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.07.28-03.06.57:925][  0]LogDerivedDataCache: Speed tests for C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2022.07.28-03.06.57:925][  0]LogDerivedDataCache: Display: Performance to C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.19ms. RandomReadSpeed=29.42MBs, RandomWriteSpeed=178.67MBs. Assigned SpeedClass 'Local'
+[2022.07.28-03.06.57:927][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.07.28-03.06.57:928][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.07.28-03.06.57:928][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.07.28-03.06.58:044][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.28-03.06.58:191][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.28-03.06.59:778][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2022.07.28-03.07.04:022][  0]LogInit: Selected Device Profile: [Windows]
+[2022.07.28-03.07.04:022][  0]LogInit: Active device profile: [0000011ACC137500][0000011ACC924D00 49] Windows
+[2022.07.28-03.07.04:023][  0]LogInit: Profiles: [0000011ACC137500][0000011ACC924D00 49] Windows, [0000011ACC100D00][0000011ACC920F80 49] WindowsNoEditor, [0000011ACC134D00][0000011ACC92D240 49] WindowsServer, [0000011ACC102D00][0000011ACA3F3500 49] WindowsClient, [0000011ACC136C00][0000011ACA3F77C0 49] IOS, [0000011ACC101600][0000011ACA3FBA80 49] iPadAir, [0000011ACC135500][0000011ACA3FE1C0 49] iPadAir2, [0000011ACC097C00][0000011AC5384700 49] IPadPro, [0000011ACC097D00][0000011ACA402740 49] iPadAir3, [0000011ACC136600][0000011ACA40AA00 49] iPadAir4, [0000011ACC095200][0000011ACA406CC0 49] iPadMini2, [0000011ACC135A00][0000011ACC928F40 49] iPadMini3, [0000011ACC096700][0000011ACA40F1C0 49] iPadMini4, [0000011ACC137700][0000011AC538D480 49] iPadMini5, [0000011ACC123500][0000011AC53A19C0 49] iPhone6, [0000011ACC123600][0000011AC5391A00 49] iPodTouch6, [0000011ACC094200][0000011AC53A83C0 49] iPhone7, [0000011ACC094100][0000011AC5398400 49] iPodTouch7, [0000011ACC121100][0000011AC539C6C0 49] iPhone5S, [0000011ACC094B00][0000011AC5394980 49] iPhone6Plus, [0000011ACC122800][0000011AC53A4C40 49] iPhone6S, [0000011ACC094F00][0000011AC548CF00 49] iPhone6SPlus, [0000011ACC121900][0000011AC5389180 49] iPhone7Plus, [0000011ACC096400][0000011AC5495440 49] iPhoneSE, [0000011ACC123700][0000011AC5499700 49] iPhone8, [0000011ACC097700][0000011AC549D9C0 49] iPhone8Plus, [0000011ACC121000][0000011AC54A0100 49] iPhoneX, [0000011ACC094300][0000011AC54A43C0 49] iPhoneXS, [0000011ACC121200][0000011AC54A8680 49] iPhoneXSMax, [0000011ACC097F00][0000011AC54AC940 49] iPhoneXR, [0000011ACC122000][0000011AC54B0C00 49] iPhone11, [0000011ACC097900][0000011AC54B4EC0 49] iPhone11Pro, [0000011ACC122F00][0000011AC5491140 49] iPhone11ProMax, [0000011ACC096800][0000011AC54B93C0 49] iPhoneSE2, [0000011ACC121800][0000011AC52CD680 49] iPhone12Mini, [0000011ACC096500][0000011AC52D1940 49] iPhone12, [0000011ACC123400][0000011AC52D5C00 49] iPhone12Pro, [0000011ACC097400][0000011AC52D8340 49] iPhone12ProMax, [0000011ACC120100][0000011AC52DC600 49] iPadPro105, [0000011ACC097B00][0000011AC52E08C0 49] iPadPro129, [0000011ACC120B00][0000011AC52E4B80 49] iPadPro97, [0000011ACC097A00][0000011AC52E8E40 49] iPadPro2_129, [0000011ACC122500][0000011AC52ED100 49] iPad5, [0000011ACC094E00][0000011AC54BD380 49] iPad6, [0000011ACC120A00][0000011AC52F1600 49] iPad7, [0000011ACC096F00][0000011AC52F98C0 49] iPad8, [0000011ACC121F00][0000011AC52FDB80 49] iPadPro11, [0000011ACC094700][0000011AC53002C0 49] iPadPro2_11, [0000011ACC120500][0000011AC5304580 49] iPadPro3_129, [0000011ACC096100][0000011AC5308840 49] iPadPro4_129, [0000011ACC122600][0000011AC530CB00 49] AppleTV, [0000011ACC097E00][0000011AC5310DC0 49] AppleTV4K, [0000011ACC120600][0000011AC5315080 49] TVOS, [0000011ACC095B00][0000011AC5319340 49] Mac, [0000011ACC123B00][0000011AC52F55C0 49] MacClient, [0000011ACC094D00][0000011AC531D840 49] MacNoEditor, [0000011ACC121500][0000011AC5325B00 49] MacServer, [0000011ACC095500][0000011AC5328240 49] Linux, [0000011ACC121700][0000011AC532C500 49] LinuxAArch64, [0000011ACC097300][0000011AC53307C0 49] LinuxNoEditor, [0000011ACC271400][0000011AC5334A80 49] LinuxAArch64NoEditor, [0000011ACC103D00][0000011AC5338D40 49] LinuxClient, [0000011ACC272000][0000011ACC941000 49] LinuxAArch64Client, [0000011ACC103200][0000011ACC9452C0 49] LinuxServer, [0000011ACC270F00][0000011ACC949580 49] LinuxAArch64Server, [0000011ACC100500][0000011AC5321800 49] Android, [0000011ACC270D00][0000011ACC94DA80 49] Android_Low, [0000011ACC102E00][0000011ACC9541C0 49] Android_Mid, [0000011ACC271800][0000011ACC958480 49] Android_High, [0000011ACC101700][0000011ACC95C740 49] Android_Default, [0000011ACC270300][0000011ACC960A00 49] Android_Adreno4xx, [0000011ACC102800][0000011ACC964CC0 49] Android_Adreno5xx_Low, [0000011ACC270800][0000011ACC968F80 49] Android_Adreno5xx, [0000011ACC100900][0000011ACC96D240 49] Android_Adreno6xx, [0000011ACC272100][0000011ACC971500 49] Android_Adreno6xx_Vulkan, [0000011ACC102F00][0000011ACC9757C0 49] Android_Mali_T6xx, [0000011ACC096E00][0000011ACC951A40 49] Android_Mali_T7xx, [0000011ACC123900][0000011ACC978140 49] Android_Mali_T8xx, [0000011ACC094500][0000011ACC980400 49] Android_Mali_G71, [0000011ACC122700][0000011ACC9846C0 49] Android_Mali_G72, [0000011ACC095A00][0000011ACC988980 49] Android_Mali_G72_Vulkan, [0000011ACC121E00][0000011ACC98CC40 49] Android_Mali_G76, [0000011ACC096B00][0000011ACC990F00 49] Android_Mali_G76_Vulkan, [0000011ACC123200][0000011ACC9951C0 49] Android_Mali_G77, [0000011ACC095000][0000011ACC999480 49] Android_Mali_G77_Vulkan, [0000011ACC123000][0000011ACC99D740 49] Android_Mali_G78, [0000011ACC100A00][0000011ACC9A1A00 49] Android_Mali_G78_Vulkan, [0000011ACC270100][0000011ACC97C100 49] Android_Mali_G710, [0000011ACC095400][0000011ACC9A4380 49] Android_Mali_G710_Vulkan, [0000011ACC272300][0000011ACC9AC640 49] Android_Vulkan_SM5, [0000011ACC096300][0000011ACC9B0900 49] Android_PowerVR_G6xxx, [0000011ACC271B00][0000011ACC9B4BC0 49] Android_PowerVR_GT7xxx, [0000011ACC095100][0000011ACC9B8E80 49] Android_PowerVR_GE8xxx, [0000011ACC270B00][0000011ACC9BD140 49] Android_PowerVR_GM9xxx, [0000011ACC095700][0000011ACC9C1400 49] Android_PowerVR_GM9xxx_Vulkan, [0000011ACC271100][0000011ACC9C56C0 49] Android_TegraK1, [0000011ACC097100][0000011ACC9C9980 49] Android_Unknown_Vulkan, [0000011ACC270A00][0000011ACC9CC0C0 49] Lumin, [0000011ACC095E00][0000011ACC9A8340 49] Lumin_Desktop, [0000011ACC270900][0000011ACC9D05C0 49] HoloLens, 
+[2022.07.28-03.07.06:999][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.07.28-03.07.06:999][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.07.28-03.07.06:999][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.07.28-03.07.06:999][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.07.28-03.07.06:999][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.07.28-03.07.07:865][  0]LogNetVersion: A1_EscapeTheMaze 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1987363214)
+[2022.07.28-03.07.28:742][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.07.28-03.07.29:434][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.07.28-03.07.29:504][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.07.28-03.07.29:505][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.07.28-03.07.29:505][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.07.28-03.07.32:743][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 930CE04D47FD0003C12E2ABC41037543 | Instance: F3EE17BE409E3C0D67DED8958E2E1829 (DESKTOP-6QR7AHU-17480).
+[2022.07.28-03.07.36:974][  0]LogPython: Using Python 3.7.7
+[2022.07.28-03.07.38:674][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.07.28-03.07.38:707][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.07.28-03.07.44:386][  0]SourceControl: Source control is disabled
+[2022.07.28-03.07.44:386][  0]SourceControl: Source control is disabled
+[2022.07.28-03.07.44:618][  0]SourceControl: Source control is disabled
+[2022.07.28-03.07.44:668][  0]SourceControl: Source control is disabled
+[2022.07.28-03.07.44:762][  0]SourceControl: Source control is disabled
+[2022.07.28-03.07.44:850][  0]LogUProjectInfo: Found projects:
+[2022.07.28-03.07.45:031][  0]LogOpenImageDenoise: OIDN starting up
+[2022.07.28-03.07.45:353][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.07.28-03.07.45:643][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.28-03.07.45:643][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.28-03.07.47:424][  0]LogCollectionManager: Loaded 0 collections in 0.001075 seconds
+[2022.07.28-03.07.47:761][  0]LogFileCache: Scanning file cache for directory 'D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/Collections/' took 0.00s
+[2022.07.28-03.07.47:761][  0]LogFileCache: Scanning file cache for directory 'D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Developers/Ian/Collections/' took 0.00s
+[2022.07.28-03.07.47:761][  0]LogFileCache: Scanning file cache for directory 'D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Collections/' took 0.00s
+[2022.07.28-03.07.47:761][  0]LogOcInput: OculusInput pre-init called
+[2022.07.28-03.07.49:805][  0]LogEngine: Initializing Engine...
+[2022.07.28-03.07.49:998][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.07.28-03.07.49:998][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.07.28-03.07.50:020][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.07.28-03.07.50:062][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.07.28-03.07.51:324][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.07.28-03.07.51:843][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.07.28-03.07.51:863][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.07.28-03.07.51:910][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.07.28-03.07.51:944][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.07.28-03.07.51:966][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.07.28-03.07.51:966][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.07.28-03.07.51:966][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.28-03.07.51:966][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.28-03.07.51:966][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.28-03.07.51:966][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.28-03.07.51:966][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.28-03.07.51:966][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.28-03.07.51:966][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.28-03.07.51:966][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.28-03.07.51:983][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.28-03.07.51:983][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.28-03.07.51:983][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.28-03.07.51:983][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.28-03.07.52:169][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.28-03.07.52:169][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.07.28-03.07.52:813][  0]LogAudioMixer: Display: Using Audio Device Speakers (EDIFIER M3200BT)
+[2022.07.28-03.07.52:858][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.28-03.07.52:929][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.28-03.07.52:929][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.28-03.07.52:931][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.28-03.07.52:932][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.28-03.07.52:932][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.28-03.07.52:933][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.28-03.07.52:933][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.28-03.07.52:933][  0]LogInit: FAudioDevice initialized.
+[2022.07.28-03.07.52:933][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.07.28-03.07.52:933][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.07.28-03.07.53:010][  0]LogDerivedDataCache: Saved boot cache 0.08s 94MB C:/Users/Ian/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.07.28-03.07.53:010][  0]LogInit: Texture streaming: Enabled
+[2022.07.28-03.07.53:248][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.07.28-03.07.53:302][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.07.28-03.07.53:323][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.07.28-03.07.53:343][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.07.28-03.07.53:763][  0]LogInit: Transaction tracking system initialized
+[2022.07.28-03.07.54:212][  0]BlueprintLog: New page: Editor Load
+[2022.07.28-03.07.55:592][  0]LocalizationService: Localization service is disabled
+[2022.07.28-03.07.56:273][  0]TimingProfiler: Initialize
+[2022.07.28-03.07.56:274][  0]TimingProfiler: OnSessionChanged
+[2022.07.28-03.07.56:275][  0]LoadingProfiler: Initialize
+[2022.07.28-03.07.56:275][  0]LoadingProfiler: OnSessionChanged
+[2022.07.28-03.07.56:275][  0]NetworkingProfiler: Initialize
+[2022.07.28-03.07.56:275][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.28-03.07.56:275][  0]MemoryProfiler: Initialize
+[2022.07.28-03.07.56:275][  0]MemoryProfiler: OnSessionChanged
+[2022.07.28-03.08.00:421][  0]LogFileCache: Scanning file cache for directory 'D:/Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/' took 0.06s
+[2022.07.28-03.08.00:421][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.07.28-03.08.00:421][  0]LogCook: Display: Mobile HDR setting 1
+[2022.07.28-03.08.00:859][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cone': Can't find file.
+[2022.07.28-03.08.00:859][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cone': Can't find file.
+[2022.07.28-03.08.00:859][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cone.Cone'
+[2022.07.28-03.08.06:252][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.28-03.08.06:439][  0]SourceControl: Source control is disabled
+[2022.07.28-03.08.06:452][  0]LogUnrealEdMisc: Loading editor; pre map load, took 172.636
+[2022.07.28-03.08.06:494][  0]Cmd: MAP LOAD FILE="../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.28-03.08.06:496][  0]LightingResults: New page: Lighting Build
+[2022.07.28-03.08.06:623][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-03.08.06:659][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.28-03.08.06:746][  0]MapCheck: New page: Map Check
+[2022.07.28-03.08.06:746][  0]LightingResults: New page: Lighting Build
+[2022.07.28-03.08.07:009][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.28-03.08.07:079][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.07.28-03.08.10:201][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.07.28-03.08.10:230][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.28-03.08.10:772][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.28-03.08.10:822][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.07.28-03.08.10:848][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.28-03.08.10:867][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 18.477ms to complete.
+[2022.07.28-03.08.10:867][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.384
+[2022.07.28-03.08.12:289][  0]LogUnrealEdMisc: Total Editor Startup Time, took 178.473
+[2022.07.28-03.08.13:291][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.28-03.08.13:308][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.28-03.08.13:319][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.28-03.08.13:325][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.28-03.08.13:630][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0176 seconds. Added 3822 classes and 928 folders.
+[2022.07.28-03.08.13:816][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2022.07.28-03.08.13:989][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.07.28-03.08.13:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.13:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.28-03.08.13:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.13:989][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.07.28-03.08.13:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.07.28-03.08.14:058][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.07.28-03.08.14:058][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:058][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.07.28-03.08.14:058][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:058][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.07.28-03.08.14:058][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.07.28-03.08.14:100][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.07.28-03.08.14:100][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:100][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.07.28-03.08.14:100][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:100][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.07.28-03.08.14:100][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.07.28-03.08.14:136][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.28-03.08.14:136][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:136][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.28-03.08.14:136][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:136][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.07.28-03.08.14:136][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.07.28-03.08.14:154][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.07.28-03.08.14:154][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:154][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.07.28-03.08.14:154][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:154][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.07.28-03.08.14:154][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.07.28-03.08.14:210][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.07.28-03.08.14:210][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:210][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.07.28-03.08.14:210][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:210][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.07.28-03.08.14:210][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.07.28-03.08.14:228][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.07.28-03.08.14:228][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:228][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.07.28-03.08.14:228][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:228][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.07.28-03.08.14:228][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.07.28-03.08.14:283][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.07.28-03.08.14:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.07.28-03.08.14:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.07.28-03.08.14:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000128
+[2022.07.28-03.08.14:316][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.07.28-03.08.14:316][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:316][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.07.28-03.08.14:316][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:316][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.07.28-03.08.14:316][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.07.28-03.08.14:432][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.07.28-03.08.14:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.07.28-03.08.14:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.07.28-03.08.14:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000168
+[2022.07.28-03.08.14:467][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.07.28-03.08.14:467][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:467][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.07.28-03.08.14:467][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:467][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.07.28-03.08.14:467][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.07.28-03.08.14:483][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.07.28-03.08.14:483][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:483][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.07.28-03.08.14:483][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:483][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.07.28-03.08.14:483][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.07.28-03.08.14:496][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.28-03.08.14:496][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:496][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.28-03.08.14:496][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:496][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.07.28-03.08.14:496][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.07.28-03.08.14:528][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.07.28-03.08.14:528][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:528][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.07.28-03.08.14:528][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:528][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.07.28-03.08.14:528][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.07.28-03.08.14:539][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.07.28-03.08.14:539][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:539][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.07.28-03.08.14:539][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:539][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.07.28-03.08.14:539][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.07.28-03.08.14:561][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.07.28-03.08.14:561][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:561][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.28-03.08.14:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.07.28-03.08.14:561][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.07.28-03.08.14:583][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.07.28-03.08.14:583][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:583][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.07.28-03.08.14:583][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:583][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.07.28-03.08.14:583][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.07.28-03.08.14:610][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.07.28-03.08.14:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.07.28-03.08.14:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.07.28-03.08.14:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.07.28-03.08.14:673][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.28-03.08.14:673][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:673][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.28-03.08.14:673][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:673][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.07.28-03.08.14:674][  0]LogPakFile: OnPakFileMounted2Time == 0.000117
+[2022.07.28-03.08.14:710][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.28-03.08.14:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.28-03.08.14:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.07.28-03.08.14:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000164
+[2022.07.28-03.08.14:773][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.07.28-03.08.14:773][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:773][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.28-03.08.14:773][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:773][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.07.28-03.08.14:773][  0]LogPakFile: OnPakFileMounted2Time == 0.000139
+[2022.07.28-03.08.14:796][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.07.28-03.08.14:796][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:796][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.07.28-03.08.14:796][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:796][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.07.28-03.08.14:796][  0]LogPakFile: OnPakFileMounted2Time == 0.000136
+[2022.07.28-03.08.14:821][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.07.28-03.08.14:821][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:821][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.07.28-03.08.14:821][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:821][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.07.28-03.08.14:821][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2022.07.28-03.08.14:848][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.07.28-03.08.14:848][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:848][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.07.28-03.08.14:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:848][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.07.28-03.08.14:848][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.07.28-03.08.14:897][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.28-03.08.14:897][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:897][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.28-03.08.14:897][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:897][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.07.28-03.08.14:897][  0]LogPakFile: OnPakFileMounted2Time == 0.000137
+[2022.07.28-03.08.14:930][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.07.28-03.08.14:931][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.28-03.08.14:931][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.07.28-03.08.14:931][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.28-03.08.14:931][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.07.28-03.08.14:931][  0]LogPakFile: OnPakFileMounted2Time == 0.000167
+[2022.07.28-03.08.17:901][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.07.28-03.08.17:994][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.07.28-03.08.18:925][  0]LogSlate: Took 0.037619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.28-03.08.18:974][  0]LogSlate: Took 0.028461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.28-03.08.19:001][  0]LogSlate: Took 0.026455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.28-03.08.19:762][  0]LogRenderer: Reallocating scene render targets to support 1948x736 Format 10 NumSamples 1 (Frame:1).
+[2022.07.28-03.08.20:240][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.07.28-03.08.20:241][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.07.28-03.08.20:241][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.07.28-03.08.20:241][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.07.28-03.08.20:241][  0]LogLoad: (Engine Initialization) Total time: 186.42 seconds
+[2022.07.28-03.08.20:241][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.28-03.08.20:369][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cone': Can't find file.
+[2022.07.28-03.08.20:369][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cone': Can't find file.
+[2022.07.28-03.08.20:370][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cone.Cone'
+[2022.07.28-03.08.20:443][  0]LogAssetRegistry: Asset discovery search completed in 80.6678 seconds
+[2022.07.28-03.08.20:517][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.07.28-03.08.20:618][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.28-03.08.21:920][  4]LogSlate: Took 0.041727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.28-03.59.50:194][130]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.28-03.59.55:414][130]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.07.28-03.59.55:467][130]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.07.28-03.59.55:571][130]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.07.28-04.00.03:081][ 26]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Puzzle
+[2022.07.28-04.00.03:136][ 26]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.07.28-04.00.05:505][298]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actor/BP_Puzzle.BP_Puzzle
+[2022.07.28-04.00.06:904][298]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 126 classes and 0 folders.
+[2022.07.28-04.00.08:871][298]LogRenderer: Reallocating scene render targets to support 1948x760 Format 10 NumSamples 1 (Frame:1).
+[2022.07.28-04.00.11:217][544]LogSlate: Window 'BP_Puzzle' being destroyed
+[2022.07.28-04.00.11:602][588]LogSlate: Took 0.015498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.28-04.00.35:853][380]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:854][380]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:862][381]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:862][381]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:862][381]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:870][382]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:870][382]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:870][382]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:878][383]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:878][383]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:878][383]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:887][384]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:887][384]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:887][384]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:895][385]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:895][385]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:895][385]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:903][386]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:903][386]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:903][386]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:912][387]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:912][387]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:912][387]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:920][388]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:920][388]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:920][388]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:928][389]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:928][389]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:929][389]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:937][390]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:937][390]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:937][390]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:945][391]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:945][391]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:945][391]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:953][392]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:954][392]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:954][392]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:962][393]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:962][393]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:962][393]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:970][394]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:970][394]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:970][394]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:978][395]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:979][395]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:979][395]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:987][396]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.35:987][396]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.07.28-04.00.39:805][852]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.906 Y=0.000 Z=0.906
+[2022.07.28-04.00.39:805][852]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.906 Y=0.000 Z=0.906
+[2022.07.28-04.00.39:813][853]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.906 Y=0.000 Z=0.906
+[2022.07.28-04.00.39:813][853]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.906 Y=0.000 Z=0.906
+[2022.07.28-04.00.39:813][853]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.906 Y=0.000 Z=0.906
+[2022.07.28-04.00.39:821][854]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.906 Y=0.000 Z=0.906
+[2022.07.28-04.00.39:821][854]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.906 Y=0.000 Z=0.906
+[2022.07.28-04.00.39:821][854]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.906 Y=0.000 Z=0.906
+[2022.07.28-04.00.39:830][855]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.906 Y=0.000 Z=0.906
+[2022.07.28-04.00.39:830][855]LogPhysics: Warning: Scale for /Engine/Transient.World_3:PersistentLevel.BP_Puzzle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=0.906 Y=0.000 Z=0.906
+[2022.07.28-04.00.50:135][ 89]LogEditorTransaction: Undo Modify Component(s)
+[2022.07.28-04.00.50:633][122]LogEditorTransaction: Undo Modify Component(s)
+[2022.07.28-04.00.50:943][158]LogEditorTransaction: Undo Modify Component(s)
+[2022.07.28-04.00.51:252][195]LogEditorTransaction: Undo Add Component
+[2022.07.28-04.02.02:579][605]LogSlate: Took 0.349544 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.28-04.02.14:266][902]LogEditorTransaction: Undo Edit Static Mesh
+[2022.07.28-04.02.28:335][541]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.28-04.02.32:662][ 59]LogEditorTransaction: Undo Edit Wireframe Color Override
+[2022.07.28-04.02.33:105][ 93]LogEditorTransaction: Undo Wireframe Color Override Edit Condition Changed
+[2022.07.28-04.02.34:569][262]LogEditorTransaction: Undo Add Component
+[2022.07.28-04.04.25:405][238]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.07.28-04.04.25:431][238]LogContentBrowser: Creating deferred item: NewFolder
+[2022.07.28-04.04.30:606][857]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.07.28-04.04.30:607][857]LogContentBrowser: End creating deferred item NewFolder
+[2022.07.28-04.04.31:358][943]Cmd: TRANSACTION UNDO
+[2022.07.28-04.04.31:363][943]LogEditorTransaction: Undo Add Component
+[2022.07.28-04.04.39:307][841]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.04.39:533][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.07.28-04.04.39:631][841]LogSlate: Took 0.040754 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.28-04.04.40:101][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor/BP_Puzzle" FILE="../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Puzzle.uasset" SILENT=true
+[2022.07.28-04.04.40:234][882]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/BP_Puzzle9A1DC28E4BA7AD387C5597AD23BC68CE.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Puzzle.uasset'
+[2022.07.28-04.04.40:292][882]AssetCheck: New page: Asset Save: BP_Puzzle
+[2022.07.28-04.04.40:292][882]LogContentValidation: Display: Validating Blueprint /Game/Actor/BP_Puzzle.BP_Puzzle
+[2022.07.28-04.05.04:370][283]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.07.28-04.05.04:383][283]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.07.28-04.05.08:939][830]LogContentBrowser: Attempting asset rename: NewMaterial -> ColorMaterial
+[2022.07.28-04.05.08:940][830]LogContentBrowser: End creating deferred item NewMaterial
+[2022.07.28-04.05.10:738][ 41]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Actor/ColorMaterial.ColorMaterial
+[2022.07.28-04.05.10:814][ 41]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 244449F5F0B11F5D0E03146D12B2A2B0D4185D20), compiling. 
+[2022.07.28-04.05.10:986][ 41]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.07.28-04.05.11:112][ 41]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.07.28-04.05.11:507][ 41]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.07.28-04.05.11:812][ 41]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2719CEBCDB26D8CB035A88E8E1619267193D37B4), compiling. 
+[2022.07.28-04.05.11:839][ 41]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.28-04.05.12:095][ 42]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.05.12:095][ 42]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.28-04.05.12:095][ 42]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.07.28-04.05.12:095][ 42]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.07.28-04.05.12:095][ 42]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.07.28-04.05.12:096][ 42]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.05.14:129][269]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.07.28-04.05.14:129][269]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.07.28-04.05.14:129][269]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.28-04.05.14:129][269]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2022.07.28-04.05.14:129][269]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2022.07.28-04.05.14:129][269]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.28-04.05.14:129][269]LogShaderCompilers: Display: ================================================
+[2022.07.28-04.05.14:138][270]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.14:719][324]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.07.28-04.05.14:719][324]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.07.28-04.05.15:842][365]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.28-04.05.15:842][365]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.28-04.05.15:842][365]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.28-04.05.15:842][365]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.30:769][978]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 66BDEDD528B10405D4A7F1C80624732C149A0130), compiling. 
+[2022.07.28-04.05.30:772][978]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2A16E3CBF9855BF771814D3808994CFBBFE88EB6), compiling. 
+[2022.07.28-04.05.30:794][978]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5290359107DCC85B190DCF32F70AD13199DBA7CB), compiling. 
+[2022.07.28-04.05.30:796][978]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 693C666CFAE777AEACA00DF6530E17DA4277AA02), compiling. 
+[2022.07.28-04.05.30:822][978]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.28-04.05.30:915][980]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.05.30:915][980]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.28-04.05.30:915][980]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.28-04.05.30:915][980]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.28-04.05.30:915][980]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.30:919][981]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.07.28-04.05.30:919][981]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.05.45:012][410]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F1B76DDA1DFE19CF4DD844A72ADE73D5D50FA8FD), compiling. 
+[2022.07.28-04.05.45:014][410]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B2F65518556DC560B2E1FB4C7949C7FA623F0931), compiling. 
+[2022.07.28-04.05.45:016][410]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.28-04.05.45:032][412]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.45:042][413]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.28-04.05.45:042][413]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.28-04.05.45:042][413]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.28-04.05.45:042][413]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.47:470][704]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CFE833BA153B0D0DE49D35C42CF72BE36020043F), compiling. 
+[2022.07.28-04.05.47:471][704]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A76B1263DC9784384547D2C79FBEC95AE7198ED9), compiling. 
+[2022.07.28-04.05.47:473][704]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.28-04.05.47:489][706]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.47:499][707]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.28-04.05.47:499][707]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.28-04.05.47:499][707]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.28-04.05.47:499][707]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.48:826][866]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4C22590A6E77BB33D3FE5647A78234944C8B99A0), compiling. 
+[2022.07.28-04.05.48:827][866]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D22B8F0E4A92619D704B02308020FD59CD1DA78), compiling. 
+[2022.07.28-04.05.48:829][866]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.28-04.05.48:844][868]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.48:854][869]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.28-04.05.48:854][869]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.28-04.05.48:854][869]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.28-04.05.48:854][869]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.50:406][ 55]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 55092561D64F7B2D44569C3A0960DDBD397DEF75), compiling. 
+[2022.07.28-04.05.50:407][ 55]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2F2880EDAA8396D7F2A072BD6DDBBCB0A62C5E60), compiling. 
+[2022.07.28-04.05.50:408][ 55]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.28-04.05.50:424][ 57]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.50:433][ 58]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.28-04.05.50:433][ 58]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.28-04.05.50:433][ 58]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.28-04.05.50:433][ 58]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.51:226][153]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 7769EA81D0B71CD3D3789BE3C580285D1DAA32F2), compiling. 
+[2022.07.28-04.05.51:228][153]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D4DB202F26B46B2500F8814DEE8FE20E4D8EE60A), compiling. 
+[2022.07.28-04.05.51:229][153]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.28-04.05.51:235][153]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.28-04.05.51:252][155]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.51:262][156]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.28-04.05.51:262][156]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.28-04.05.51:262][156]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.28-04.05.51:262][156]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.55:110][614]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A7ADB92C1D5E06AE1F89AA9372A53875144D64C5), compiling. 
+[2022.07.28-04.05.55:111][614]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 83BB09C0CE4D5B8CB73C1D4834ECC251F257ED3A), compiling. 
+[2022.07.28-04.05.55:113][614]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.28-04.05.55:127][616]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.55:137][617]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.28-04.05.55:137][617]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.28-04.05.55:137][617]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.28-04.05.55:137][617]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.55:597][672]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FF7B4A51C14057F26CD7B623549A7B3BEA8B57D6), compiling. 
+[2022.07.28-04.05.55:599][672]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B949D4042DEE4CA9FBDADFF7B751D6254BDFA8CE), compiling. 
+[2022.07.28-04.05.55:600][672]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.28-04.05.55:616][674]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.55:626][675]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.28-04.05.55:626][675]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.28-04.05.55:626][675]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.28-04.05.55:626][675]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.57:468][896]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FA4D117ABEF6DFEC4FC4ACC7169E74DA736719D1), compiling. 
+[2022.07.28-04.05.57:470][896]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 45F77B0D97189324C562449E0C07A58BCDA95BDD), compiling. 
+[2022.07.28-04.05.57:471][896]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.28-04.05.57:487][898]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.05.57:497][899]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.07.28-04.05.57:497][899]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.07.28-04.05.57:497][899]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.28-04.05.57:497][899]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.06.00:807][284]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 619204DE13E310180D5C77B2ABDE371ADD80F216), compiling. 
+[2022.07.28-04.06.00:808][284]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C843D7BC06BA76CB266463494014D5137A70CED3), compiling. 
+[2022.07.28-04.06.00:810][284]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.28-04.06.00:813][285]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.06.00:818][286]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.07.28-04.06.00:819][286]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.06.00:821][286]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.28-04.06.00:821][286]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.07.28-04.06.00:821][286]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.07.28-04.06.00:825][286]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.06.01:497][363]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.07.28-04.06.01:497][363]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.06.01:980][421]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.07.28-04.06.01:980][421]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.07.28-04.06.02:169][443]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BC80A8208672D0D99C9F2F2AA360F6C3122F09DA), compiling. 
+[2022.07.28-04.06.02:171][443]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 18AE9DA2AA9DB230B6A4A1AADD0F371478294620), compiling. 
+[2022.07.28-04.06.02:176][444]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.06.02:182][445]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.28-04.06.02:187][445]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.06.02:416][473]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2022.07.28-04.06.02:416][473]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.06.02:601][495]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.07.28-04.06.02:601][495]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.06.02:856][522]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2022.07.28-04.06.02:856][522]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.07.28-04.06.03:236][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.07.28-04.06.03:236][560]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.07.28-04.06.03:248][561]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.06.03:843][631]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.07.28-04.06.03:843][631]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.07.28-04.06.04:373][691]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.07.28-04.06.04:373][691]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.07.28-04.06.04:373][691]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.28-04.06.04:373][691]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.06.05:956][881]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 86B9C7A45D415EEE0BC73507CB7DC6954E5CE44A), compiling. 
+[2022.07.28-04.06.05:958][881]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0C97160E249CBB280E5A9E29147A68716FAF76EE), compiling. 
+[2022.07.28-04.06.05:959][881]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.28-04.06.05:962][882]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.06.05:967][883]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.07.28-04.06.05:967][883]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.06.05:968][883]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.07.28-04.06.05:970][883]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.07.28-04.06.05:970][883]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.07.28-04.06.05:974][883]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.06.06:537][951]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.07.28-04.06.06:537][951]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.06.06:540][951]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.06.07:047][ 12]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.07.28-04.06.07:047][ 12]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.07.28-04.06.07:559][ 72]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.07.28-04.06.07:559][ 72]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.07.28-04.06.07:960][120]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.07.28-04.06.07:960][120]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.07.28-04.06.07:960][120]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.28-04.06.07:960][120]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.06.08:345][166]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: EE063F8F1A6D3F70FDED805AD90F4D0155665EBA), compiling. 
+[2022.07.28-04.06.08:347][166]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A5FA5ACCF4C8A5B8D1A785B81CD5A52F5DF952F4), compiling. 
+[2022.07.28-04.06.08:348][166]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.28-04.06.08:353][166]MaterialEditorStats: Texture samplers: 0/16
+[2022.07.28-04.06.08:370][168]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.06.08:379][169]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.07.28-04.06.08:379][169]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.07.28-04.06.08:379][169]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.28-04.06.08:379][169]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.06.10:074][371]LogMaterialEditor: Saving and Compiling material ColorMaterial
+[2022.07.28-04.06.10:323][371]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8FFE6EDB90A2C099BD722ACFFA5EC8B9C39BEB72), compiling. 
+[2022.07.28-04.06.10:361][371]LogMaterial: Display: Missing cached shadermap for ColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 675BCBB5998C1C2B5839A5D7C1793DE719BACF44), compiling. 
+[2022.07.28-04.06.10:429][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.07.28-04.06.10:455][371]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.06.10:716][371]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.07.28-04.06.10:716][371]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.07.28-04.06.10:716][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.07.28-04.06.10:795][371]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.07.28-04.06.10:799][371]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.07.28-04.06.10:799][371]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.07.28-04.06.10:799][371]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.07.28-04.06.10:809][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor/ColorMaterial" FILE="../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/ColorMaterial.uasset" SILENT=true
+[2022.07.28-04.06.10:814][371]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/ColorMaterial29499F744A21AC98FC4CCF8C7235ACE7.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/ColorMaterial.uasset'
+[2022.07.28-04.06.10:826][371]AssetCheck: New page: Asset Save: ColorMaterial
+[2022.07.28-04.06.10:827][371]LogContentValidation: Display: Validating Material /Game/Actor/ColorMaterial.ColorMaterial
+[2022.07.28-04.06.10:832][371]MaterialEditorStats: Texture samplers: 2/16
+[2022.07.28-04.06.11:312][429]MaterialEditorStats: Texture samplers: 3/16
+[2022.07.28-04.06.11:537][456]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.07.28-04.06.11:537][456]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.07.28-04.06.11:537][456]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.07.28-04.06.11:537][456]MaterialEditorStats: Texture samplers: 3/16
+[2022.07.28-04.06.19:744][422]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.06.19:776][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.07.28-04.06.20:251][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor/BP_Puzzle" FILE="../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Puzzle.uasset" SILENT=true
+[2022.07.28-04.06.20:267][472]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/BP_Puzzle6E2E8F3E4664F93EC12C6D9D2178D459.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Puzzle.uasset'
+[2022.07.28-04.06.20:278][472]AssetCheck: New page: Asset Save: BP_Puzzle
+[2022.07.28-04.06.20:278][472]LogContentValidation: Display: Validating Blueprint /Game/Actor/BP_Puzzle.BP_Puzzle
+[2022.07.28-04.06.21:838][651]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.06.21:838][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.28-04.06.27:052][243]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actor/BP_KeyTrigger.BP_KeyTrigger
+[2022.07.28-04.06.49:224][777]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actor/BP_Key.BP_Key
+[2022.07.28-04.07.32:641][885]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.07.33:164][885]LogUObjectHash: Compacting FUObjectHashTables data took   9.01ms
+[2022.07.28-04.08.29:395][442]LogSlate: Took 0.025606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.07.28-04.08.50:160][832]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.07.28-04.11.41:708][592]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.11.42:053][592]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] The property associated with  Puzzle Count  could not be found in '/Game/Actor/BP_Puzzle.BP_Puzzle_C'
+[2022.07.28-04.11.42:210][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.07.28-04.11.47:534][191]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.11.47:536][191]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] This blueprint (self) is not a ThirdPersonCharacter_C, therefore ' Target ' must have a connection.
+[2022.07.28-04.11.47:537][191]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] Variable node  Set PuzzleCount  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.07.28-04.11.47:537][191]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] The property associated with  Puzzle Count  could not be found in '/Game/Actor/BP_Puzzle.BP_Puzzle_C'
+[2022.07.28-04.11.47:579][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.07.28-04.12.39:327][278]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.12.39:329][278]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] The property associated with  Puzzle Count  could not be found in '/Game/Actor/BP_Puzzle.BP_Puzzle_C'
+[2022.07.28-04.12.39:376][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.07.28-04.12.39:987][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor/BP_Puzzle" FILE="../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Puzzle.uasset" SILENT=true
+[2022.07.28-04.12.40:014][346]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/BP_Puzzle803677FD434E61D7EB8AFA8D1F363F2C.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Puzzle.uasset'
+[2022.07.28-04.12.40:026][346]AssetCheck: New page: Asset Save: BP_Puzzle
+[2022.07.28-04.12.40:026][346]LogContentValidation: Display: Validating Blueprint /Game/Actor/BP_Puzzle.BP_Puzzle
+[2022.07.28-04.12.41:101][474]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.12.41:103][474]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] The property associated with  Puzzle Count  could not be found in '/Game/Actor/BP_Puzzle.BP_Puzzle_C'
+[2022.07.28-04.12.41:145][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.07.28-04.13.34:478][553]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.13.34:479][553]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] This blueprint (self) is not a ThirdPersonCharacter_C, therefore ' Target ' must have a connection.
+[2022.07.28-04.13.34:480][553]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] Variable node  Set PuzzleCount  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.07.28-04.13.34:480][553]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] The property associated with  Puzzle Count  could not be found in '/Game/Actor/BP_Puzzle.BP_Puzzle_C'
+[2022.07.28-04.13.34:524][553]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.07.28-04.13.38:459][ 12]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.13.38:461][ 12]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] The property associated with  Puzzle Count  could not be found in '/Game/Actor/BP_Puzzle.BP_Puzzle_C'
+[2022.07.28-04.13.38:504][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.07.28-04.13.39:715][156]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.13.39:717][156]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] The property associated with  Puzzle Count  could not be found in '/Game/Actor/BP_Puzzle.BP_Puzzle_C'
+[2022.07.28-04.13.39:760][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.07.28-04.14.30:182][145]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.14.30:184][145]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] The property associated with  Puzzle Count  could not be found in '/Game/Actor/BP_Puzzle.BP_Puzzle_C'
+[2022.07.28-04.14.30:227][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.07.28-04.15.03:692][935]LogEditorViewport: Clicking on Actor (LMB): BP_Botton_C (BP_Botton)
+[2022.07.28-04.15.09:842][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.07.28-04.15.09:934][629]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/ThirdPersonExampleMap9EF6249F43ECA36654D9F090980A8633.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.07.28-04.15.10:094][629]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/ThirdPersonExampleMap_BuiltDataF9A8C4564A2766F51B9742A29728EB38.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.07.28-04.15.10:129][629]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.28-04.15.10:129][629]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.07.28-04.15.10:129][629]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.07.28-04.15.11:037][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.07.28-04.15.12:558][732]LogSlate: Window 'Save Content' being destroyed
+[2022.07.28-04.15.12:600][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor/BP_Puzzle" FILE="../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Puzzle.uasset" SILENT=true
+[2022.07.28-04.15.12:609][732]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/BP_PuzzleA5799A6E473C2F1A7EB11C99A1EB1A4B.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Puzzle.uasset'
+[2022.07.28-04.15.12:666][732]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/ThirdPersonCharacter8F8821E745A979DB634E05AAB141E58C.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.07.28-04.15.12:689][732]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.28-04.15.12:689][732]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.07.28-04.15.12:689][732]LogContentValidation: Display: Validating Blueprint /Game/Actor/BP_Puzzle.BP_Puzzle
+[2022.07.28-04.15.17:353][247]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actor/BP_Botton.BP_Botton
+[2022.07.28-04.15.47:007][673]LogEditorTransaction: Undo Move Node
+[2022.07.28-04.15.47:399][698]LogEditorTransaction: Undo Move Node
+[2022.07.28-04.15.47:808][739]LogEditorTransaction: Undo Create Pin Link
+[2022.07.28-04.15.48:574][826]LogEditorTransaction: Undo Add Node
+[2022.07.28-04.15.54:007][448]BlueprintLog: New page: Compile BP_Botton
+[2022.07.28-04.15.54:068][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.07.28-04.15.54:599][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor/BP_Botton" FILE="../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Botton.uasset" SILENT=true
+[2022.07.28-04.15.54:615][505]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/BP_Botton2DA62716411B2102057F2B8B701E4CC7.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Botton.uasset'
+[2022.07.28-04.15.54:665][505]AssetCheck: New page: Asset Save: BP_Botton
+[2022.07.28-04.15.54:665][505]LogContentValidation: Display: Validating Blueprint /Game/Actor/BP_Botton.BP_Botton
+[2022.07.28-04.17.09:289][253]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.07.28-04.17.09:361][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.07.28-04.17.31:263][583]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.17.31:264][583]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] This blueprint (self) is not a ThirdPersonCharacter_C, therefore ' Target ' must have a connection.
+[2022.07.28-04.17.31:264][583]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] Variable node  Set PuzzleCount  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.07.28-04.17.31:311][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.07.28-04.17.45:185][232]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.17.45:232][232]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.07.28-04.17.47:160][461]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.17.47:208][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.07.28-04.18.08:764][950]LogEditorTransaction: Undo Add Pin
+[2022.07.28-04.18.09:119][974]LogEditorTransaction: Undo Add Pin
+[2022.07.28-04.18.10:152][ 88]LogEditorTransaction: Undo Move Node
+[2022.07.28-04.18.35:644][104]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.18.35:696][104]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.07.28-04.18.41:579][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor/BP_Puzzle" FILE="../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Puzzle.uasset" SILENT=true
+[2022.07.28-04.18.41:589][789]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/BP_Puzzle239A1B904B5AE6E503DDBA8CBC2E2A1B.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Puzzle.uasset'
+[2022.07.28-04.18.41:602][789]AssetCheck: New page: Asset Save: BP_Puzzle
+[2022.07.28-04.18.41:602][789]LogContentValidation: Display: Validating Blueprint /Game/Actor/BP_Puzzle.BP_Puzzle
+[2022.07.28-04.19.00:566][ 30]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.19.00:566][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.28-04.19.29:365][410]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.19.29:367][410]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] This blueprint (self) is not a ThirdPersonCharacter_C, therefore ' Target ' must have a connection.
+[2022.07.28-04.19.29:367][410]LogBlueprint: Error: [AssetLog] D:\Summer2022\MiniGames\A1_EscapeTheMaze\A1_EscapeTheMaze\A1_EscapeTheMaze\Content\Actor\BP_Puzzle.uasset: [Compiler] Variable node  Get PuzzleCount  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.07.28-04.19.29:413][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.07.28-04.19.32:786][801]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.19.32:830][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.07.28-04.19.42:068][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor/BP_Puzzle" FILE="../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Puzzle.uasset" SILENT=true
+[2022.07.28-04.19.42:078][895]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/BP_Puzzle0352BA7E4D4450FFA8EBCA94E6751122.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Puzzle.uasset'
+[2022.07.28-04.19.42:089][895]AssetCheck: New page: Asset Save: BP_Puzzle
+[2022.07.28-04.19.42:090][895]LogContentValidation: Display: Validating Blueprint /Game/Actor/BP_Puzzle.BP_Puzzle
+[2022.07.28-04.19.57:480][724]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actor/BP_HitTrigger.BP_HitTrigger
+[2022.07.28-04.20.09:714][ 96]LogContentBrowser: Deferred new asset file creation: BP_HitTrigger1
+[2022.07.28-04.20.09:730][ 96]LogContentBrowser: Creating deferred item: BP_HitTrigger1
+[2022.07.28-04.20.21:682][529]LogContentBrowser: Attempting asset rename: BP_HitTrigger1 -> BP_PuzzleTrigger
+[2022.07.28-04.20.21:719][529]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.07.28-04.20.21:726][529]LogContentBrowser: End creating deferred item BP_HitTrigger1
+[2022.07.28-04.20.23:856][776]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actor/BP_PuzzleTrigger.BP_PuzzleTrigger
+[2022.07.28-04.24.37:612][997]BlueprintLog: New page: Compile BP_PuzzleTrigger
+[2022.07.28-04.24.37:668][997]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.07.28-04.24.39:511][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor/BP_PuzzleTrigger" FILE="../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_PuzzleTrigger.uasset" SILENT=true
+[2022.07.28-04.24.39:520][210]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/BP_PuzzleTrigger87E9C279423B67456BCC4BB1CBFDDCE8.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_PuzzleTrigger.uasset'
+[2022.07.28-04.24.39:534][210]AssetCheck: New page: Asset Save: BP_PuzzleTrigger
+[2022.07.28-04.24.39:534][210]LogContentValidation: Display: Validating Blueprint /Game/Actor/BP_PuzzleTrigger.BP_PuzzleTrigger
+[2022.07.28-04.25.07:814][528]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door5)
+[2022.07.28-04.25.11:763][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.07.28-04.25.12:259][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.07.28-04.25.12:939][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.07.28-04.25.13:647][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.07.28-04.25.14:244][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.07.28-04.25.17:762][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.07.28-04.25.18:547][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.07.28-04.25.18:904][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.07.28-04.25.19:201][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.07.28-04.25.19:556][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.07.28-04.25.19:787][909]LogEditorViewport: Clicking on Actor (double click): BP_PuzzleTrigger_C (BP_PuzzleTrigger)
+[2022.07.28-04.25.50:197][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.07.28-04.25.54:249][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.07.28-04.25.54:312][944]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/ThirdPersonExampleMapB2BC77F44B1499CA26FF86B58308A733.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.07.28-04.25.54:392][944]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/ThirdPersonExampleMap_BuiltData0E51D6E1435EAFC6BBA6E2A8C87E00A1.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.07.28-04.25.54:406][944]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.28-04.25.54:406][944]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.07.28-04.25.54:406][944]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.07.28-04.26.30:749][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.07.28-04.26.30:807][124]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/ThirdPersonExampleMapB30F2BAB457757F574F8D3AE444E741F.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.07.28-04.26.30:875][124]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/ThirdPersonExampleMap_BuiltData1970B5A349DD34908E31B9A505324674.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.07.28-04.26.30:887][124]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.28-04.26.30:887][124]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.07.28-04.26.30:887][124]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.07.28-04.26.35:106][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.07.28-04.26.36:203][730]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.28-04.26.36:282][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.28-04.26.36:302][730]PIE: New page: PIE session: ThirdPersonExampleMap (Jul. 27, 2022, 2:26:36 p.m.)
+[2022.07.28-04.26.36:373][730]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.07.28-04.26.36:376][730]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.07.28-04.26.36:376][730]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.28-04.26.36:448][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071461s)
+[2022.07.28-04.26.36:467][730]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.28-04.26.36:556][730]LogPlayLevel: PIE: World Init took: (0.107995s)
+[2022.07.28-04.26.36:556][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.179910s)
+[2022.07.28-04.26.36:590][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.07.28-04.26.36:592][730]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.07.28-04.26.36:592][730]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.28-04.26.36:592][730]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.28-04.26.36:592][730]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.28-04.26.36:592][730]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.28-04.26.36:592][730]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.28-04.26.36:592][730]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.28-04.26.36:592][730]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.28-04.26.36:592][730]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.28-04.26.36:592][730]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.28-04.26.36:592][730]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.28-04.26.36:592][730]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.28-04.26.36:592][730]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.28-04.26.36:599][730]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.28-04.26.36:599][730]LogAudioMixer: Display: 1: FrontRight
+[2022.07.28-04.26.36:608][730]LogAudioMixer: Display: Using Audio Device Speakers (EDIFIER M3200BT)
+[2022.07.28-04.26.36:608][730]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.28-04.26.36:608][730]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.28-04.26.36:608][730]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.28-04.26.36:608][730]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.28-04.26.36:608][730]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.28-04.26.36:608][730]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.28-04.26.36:609][730]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.28-04.26.36:609][730]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.28-04.26.36:609][730]LogInit: FAudioDevice initialized.
+[2022.07.28-04.26.36:609][730]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2022.07.28-04.26.36:621][730]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.28-04.26.36:703][730]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.07.27-21.26.36
+[2022.07.28-04.26.36:723][730]LogWorld: Bringing up level for play took: 0.033132
+[2022.07.28-04.26.36:723][730]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.07.28-04.26.36:841][730]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.07.28-04.26.36:914][730]PIE: Server logged in
+[2022.07.28-04.26.36:916][730]PIE: Play in editor total start time 0.709 seconds.
+[2022.07.28-04.26.43:557][470]LogBlueprintUserMessages: [BP_Key2_5] Got a key
+[2022.07.28-04.26.44:439][576]LogBlueprintUserMessages: [BP_KeyTrigger_2] Used key
+[2022.07.28-04.26.44:439][576]LogBlueprintUserMessages: [BP_KeyTrigger_2] Door Opened
+[2022.07.28-04.26.49:298][159]LogBlueprintUserMessages: [BP_Puzzle_2] 2
+[2022.07.28-04.27.00:499][503]LogBlueprintUserMessages: [BP_Puzzle2_5] 3
+[2022.07.28-04.27.08:857][506]LogBlueprintUserMessages: [BP_PuzzleTrigger_2] Door Closed
+[2022.07.28-04.27.11:707][848]LogBlueprintUserMessages: [BP_Puzzle3_8] 4
+[2022.07.28-04.27.15:799][339]LogBlueprintUserMessages: [BP_PuzzleTrigger_2] Door Opened
+[2022.07.28-04.27.16:934][475]LogBlueprintUserMessages: [BP_PuzzleTrigger_2] Door Closed
+[2022.07.28-04.27.20:067][851]LogBlueprintUserMessages: [BP_PuzzleTrigger_2] Door Opened
+[2022.07.28-04.27.21:100][975]LogBlueprintUserMessages: [BP_PuzzleTrigger_2] Door Closed
+[2022.07.28-04.27.23:248][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.28-04.27.23:248][223]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.28-04.27.23:264][223]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.27.23:264][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.28-04.27.23:290][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.28-04.27.23:318][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.28-04.27.23:379][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.28-04.27.23:411][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.28-04.27.23:414][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.28-04.27.23:454][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2022.07.28-04.27.23:487][224]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.07.28-04.28.00:109][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor/BP_PuzzleTrigger" FILE="../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_PuzzleTrigger.uasset" SILENT=true
+[2022.07.28-04.28.00:117][550]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/BP_PuzzleTrigger4F62BFAC4E5C704231E81DA65B67CCD7.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_PuzzleTrigger.uasset'
+[2022.07.28-04.28.00:129][550]AssetCheck: New page: Asset Save: BP_PuzzleTrigger
+[2022.07.28-04.28.00:129][550]LogContentValidation: Display: Validating Blueprint /Game/Actor/BP_PuzzleTrigger.BP_PuzzleTrigger
+[2022.07.28-04.28.44:013][780]LogEditorTransaction: Undo Add Pin
+[2022.07.28-04.28.47:965][227]BlueprintLog: New page: Compile BP_Puzzle
+[2022.07.28-04.28.48:038][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.07.28-04.28.49:545][394]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.28-04.28.49:549][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.28-04.28.49:549][394]PIE: New page: PIE session: ThirdPersonExampleMap (Jul. 27, 2022, 2:28:49 p.m.)
+[2022.07.28-04.28.49:574][394]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.28-04.28.49:599][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025511s)
+[2022.07.28-04.28.49:600][394]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.28-04.28.49:600][394]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2022.07.28-04.28.49:600][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026758s)
+[2022.07.28-04.28.49:640][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.07.28-04.28.49:641][394]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.07.28-04.28.49:641][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.28-04.28.49:641][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.28-04.28.49:641][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.28-04.28.49:641][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.28-04.28.49:641][394]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.28-04.28.49:641][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.28-04.28.49:642][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.28-04.28.49:642][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.28-04.28.49:642][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.28-04.28.49:642][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.28-04.28.49:642][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.28-04.28.49:642][394]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.28-04.28.49:648][394]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.28-04.28.49:648][394]LogAudioMixer: Display: 1: FrontRight
+[2022.07.28-04.28.49:655][394]LogAudioMixer: Display: Using Audio Device Speakers (EDIFIER M3200BT)
+[2022.07.28-04.28.49:656][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.28-04.28.49:656][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.28-04.28.49:656][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.28-04.28.49:656][394]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.28-04.28.49:656][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.28-04.28.49:656][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.28-04.28.49:657][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.28-04.28.49:657][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.28-04.28.49:657][394]LogInit: FAudioDevice initialized.
+[2022.07.28-04.28.49:657][394]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2022.07.28-04.28.49:663][394]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.28-04.28.49:666][394]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.07.27-21.28.49
+[2022.07.28-04.28.49:666][394]LogWorld: Bringing up level for play took: 0.002833
+[2022.07.28-04.28.49:666][394]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.07.28-04.28.49:668][394]PIE: Server logged in
+[2022.07.28-04.28.49:669][394]PIE: Play in editor total start time 0.12 seconds.
+[2022.07.28-04.28.55:781][124]LogBlueprintUserMessages: [BP_Key2_5] Got a key
+[2022.07.28-04.28.58:014][392]LogBlueprintUserMessages: [BP_KeyTrigger_2] Used key
+[2022.07.28-04.28.58:014][392]LogBlueprintUserMessages: [BP_KeyTrigger_2] Door Opened
+[2022.07.28-04.29.07:236][494]LogBlueprintUserMessages: [BP_Puzzle_2] 2
+[2022.07.28-04.29.12:637][142]LogBlueprintUserMessages: [BP_Puzzle2_5] 3
+[2022.07.28-04.29.24:654][584]LogBlueprintUserMessages: [BP_PuzzleTrigger_2] Door Closed
+[2022.07.28-04.29.29:313][143]LogBlueprintUserMessages: [BP_PuzzleTrigger_2] Door Closed
+[2022.07.28-04.29.31:371][390]LogBlueprintUserMessages: [BP_PuzzleTrigger_2] Door Closed
+[2022.07.28-04.29.35:213][851]LogBlueprintUserMessages: [BP_PuzzleTrigger_2] Door Closed
+[2022.07.28-04.29.39:255][336]LogBlueprintUserMessages: [BP_Puzzle3_8] 4
+[2022.07.28-04.29.43:188][808]LogBlueprintUserMessages: [BP_PuzzleTrigger_2] Door Opened
+[2022.07.28-04.29.44:255][936]LogBlueprintUserMessages: [BP_PuzzleTrigger_2] Door Closed
+[2022.07.28-04.29.45:835][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.28-04.29.45:835][120]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.28-04.29.45:835][120]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.29.45:835][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.28-04.29.45:847][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.28-04.29.45:857][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.28-04.29.45:891][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.28-04.29.45:892][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.28-04.29.45:893][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.28-04.29.45:898][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.07.28-04.29.45:929][121]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.07.28-04.30.35:713][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.07.28-04.30.36:117][925]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/ThirdPersonExampleMapF927F5F84B9CE61E5E8372993432A4AC.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.07.28-04.30.36:202][925]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/ThirdPersonExampleMap_BuiltData1857B55346BDE51FCAD8E8BCE8D2BB06.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.07.28-04.30.36:216][925]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.28-04.30.36:216][925]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.07.28-04.30.36:216][925]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.07.28-04.30.37:519][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.07.28-04.30.38:847][ 71]LogSlate: Window 'Save Content' being destroyed
+[2022.07.28-04.30.38:883][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor/BP_Puzzle" FILE="../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Puzzle.uasset" SILENT=true
+[2022.07.28-04.30.38:893][ 71]LogSavePackage: Moving '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Saved/BP_Puzzle255B123A42C2F9D5F5EDCF8A0ABB55F0.tmp' to '../../../../../Summer2022/MiniGames/A1_EscapeTheMaze/A1_EscapeTheMaze/A1_EscapeTheMaze/Content/Actor/BP_Puzzle.uasset'
+[2022.07.28-04.30.38:906][ 71]AssetCheck: New page: Asset Save: BP_Puzzle
+[2022.07.28-04.30.38:906][ 71]LogContentValidation: Display: Validating Blueprint /Game/Actor/BP_Puzzle.BP_Puzzle
+[2022.07.28-04.30.41:719][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.07.28-04.30.41:794][402]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.30.41:794][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.28-04.30.41:838][402]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.28-04.30.41:838][402]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.30.41:838][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.28-04.30.41:891][402]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.28-04.30.41:891][402]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.30.41:891][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.28-04.30.41:960][402]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.28-04.30.41:960][402]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.30.41:960][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.28-04.30.42:006][402]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.28-04.30.42:006][402]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.30.42:006][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.28-04.30.42:068][402]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.28-04.30.42:068][402]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.30.42:068][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.28-04.30.42:167][402]LogSlate: Window 'A1_EscapeTheMaze - Unreal Editor' being destroyed
+[2022.07.28-04.30.42:391][403]Cmd: QUIT_EDITOR
+[2022.07.28-04.30.42:391][403]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.07.28-04.30.42:457][403]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.07.28-04.30.43:176][403]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.07.28-04.30.43:176][403]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.07.28-04.30.43:176][403]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2022.07.28-04.30.43:176][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.28-04.30.43:177][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.28-04.30.43:196][403]LogAudio: Display: Audio Device Manager Shutdown
+[2022.07.28-04.30.43:210][403]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.28-04.30.43:215][403]LogExit: Preparing to exit.
+[2022.07.28-04.30.44:369][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.07.28-04.30.45:143][403]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.30.45:146][403]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.30.45:149][403]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.30.45:153][403]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.30.45:157][403]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.30.45:160][403]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.30.45:164][403]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.30.45:168][403]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.30.45:695][403]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.07.28-04.30.46:690][403]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.28-04.30.46:690][403]LogExit: Editor shut down
+[2022.07.28-04.30.46:694][403]LogExit: Transaction tracking system shut down
+[2022.07.28-04.30.51:043][403]LogExit: Object subsystem successfully closed.
+[2022.07.28-04.30.51:053][403]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.28-04.30.51:053][403]LogShaderCompilers: Display: Total job queries 226, among them cache hits 162 (71.68%)
+[2022.07.28-04.30.51:053][403]LogShaderCompilers: Display: Tracking 53 distinct input hashes that result in 34 distinct outputs (64.15%)
+[2022.07.28-04.30.51:053][403]LogShaderCompilers: Display: RAM used: 0.19 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.07.28-04.30.51:053][403]LogShaderCompilers: Display: ================================================
+[2022.07.28-04.30.51:337][403]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.07.28-04.30.53:573][403]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (878)
+[2022.07.28-04.30.53:573][403]LogModuleManager: Shutting down and abandoning module Voice (876)
+[2022.07.28-04.30.53:598][403]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (874)
+[2022.07.28-04.30.53:618][403]LogModuleManager: Shutting down and abandoning module BlueprintGraph (872)
+[2022.07.28-04.30.53:619][403]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.07.28-04.30.53:619][403]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.07.28-04.30.53:619][403]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.07.28-04.30.53:629][403]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.07.28-04.30.53:629][403]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.07.28-04.30.53:629][403]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.07.28-04.30.53:684][403]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.07.28-04.30.53:794][403]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.07.28-04.30.53:804][403]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.07.28-04.30.53:816][403]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.07.28-04.30.53:816][403]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.07.28-04.30.53:816][403]LogModuleManager: Shutting down and abandoning module OpenXRInput (848)
+[2022.07.28-04.30.53:817][403]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (846)
+[2022.07.28-04.30.53:842][403]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (844)
+[2022.07.28-04.30.53:855][403]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (842)
+[2022.07.28-04.30.53:873][403]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (840)
+[2022.07.28-04.30.53:873][403]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (838)
+[2022.07.28-04.30.53:904][403]LogModuleManager: Shutting down and abandoning module TakeRecorder (837)
+[2022.07.28-04.30.53:932][403]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (834)
+[2022.07.28-04.30.53:942][403]LogModuleManager: Shutting down and abandoning module TakesCore (832)
+[2022.07.28-04.30.53:943][403]LogModuleManager: Shutting down and abandoning module GooglePADEditor (830)
+[2022.07.28-04.30.53:943][403]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (828)
+[2022.07.28-04.30.53:943][403]LogModuleManager: Shutting down and abandoning module PlanarCut (826)
+[2022.07.28-04.30.53:961][403]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (824)
+[2022.07.28-04.30.53:961][403]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (822)
+[2022.07.28-04.30.53:961][403]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (820)
+[2022.07.28-04.30.53:961][403]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (818)
+[2022.07.28-04.30.53:961][403]LogModuleManager: Shutting down and abandoning module WebMMedia (816)
+[2022.07.28-04.30.53:978][403]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (814)
+[2022.07.28-04.30.54:035][403]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (812)
+[2022.07.28-04.30.54:140][403]LogModuleManager: Shutting down and abandoning module SequenceRecorder (811)
+[2022.07.28-04.30.54:187][403]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (808)
+[2022.07.28-04.30.54:187][403]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (806)
+[2022.07.28-04.30.54:187][403]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (804)
+[2022.07.28-04.30.54:187][403]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (802)
+[2022.07.28-04.30.54:187][403]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (800)
+[2022.07.28-04.30.54:187][403]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (798)
+[2022.07.28-04.30.54:187][403]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (796)
+[2022.07.28-04.30.54:187][403]LogModuleManager: Shutting down and abandoning module CharacterAI (794)
+[2022.07.28-04.30.54:187][403]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (792)
+[2022.07.28-04.30.54:187][403]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (790)
+[2022.07.28-04.30.54:187][403]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (788)
+[2022.07.28-04.30.54:187][403]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.07.28-04.30.54:187][403]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.07.28-04.30.54:206][403]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.07.28-04.30.54:227][403]LogModuleManager: Shutting down and abandoning module SmartSnapping (780)
+[2022.07.28-04.30.54:227][403]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (778)
+[2022.07.28-04.30.54:274][403]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.07.28-04.30.54:274][403]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.07.28-04.30.54:315][403]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.07.28-04.30.54:344][403]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.07.28-04.30.54:370][403]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.07.28-04.30.54:403][403]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.07.28-04.30.54:403][403]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.07.28-04.30.54:403][403]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.07.28-04.30.54:403][403]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.07.28-04.30.54:403][403]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.07.28-04.30.54:403][403]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.07.28-04.30.54:403][403]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.07.28-04.30.54:429][403]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.07.28-04.30.54:441][403]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.07.28-04.30.54:520][403]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.07.28-04.30.54:541][403]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.07.28-04.30.54:563][403]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.07.28-04.30.54:563][403]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.07.28-04.30.54:588][403]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.07.28-04.30.54:592][403]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
